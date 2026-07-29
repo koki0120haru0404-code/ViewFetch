@@ -21,3 +21,10 @@ RAM:256MB
 
 Bash:1.0 
 
+## インストール方法
+
+1:[sudo apt install make]を実行。
+
+2:ファイルがある階層に移動して[make build]を実行。
+
+3:[./viewfetch]を実行
